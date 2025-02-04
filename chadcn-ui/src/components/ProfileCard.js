@@ -11,7 +11,7 @@ const ProfileCard = () => {
       <Avatar.Root className="w-24 h-24 rounded-full mb-4 overflow-hidden border-2 border-gray-300">
         <Avatar.Image
           className="rounded-full w-full h-full"
-          src="https://via.placeholder.com/150"
+          src="https://i.ibb.co/3kQhKBK/unnamed.jpg"
           alt="User Avatar"
         />
         <Avatar.Fallback className="flex items-center justify-center w-full h-full bg-gray-400 text-white">
